@@ -1,0 +1,56 @@
+{
+    "name": "CloudConvert",
+    "description": "<p>CloudConvert supports the conversion between more than 100 different audio, video, document, ebook, archive, image, spreadsheet and presentation formats. Check the supported formats for more details. There is no need to install any software on your computer! Upload your files to CloudConvert and we will do the job for you. Don't worry, your files are safe and only you can access them. They will be deleted again as soon as your conversion is finished. The CloudConvert API offers the full functionality of CloudConvert and makes it possible to use the conversion services in your own applications.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/cloud-convert.jpg",
+    "tags": [
+        "api provider",
+        "audio conversion",
+        "have api",
+        "images",
+        "target",
+        "video conversion"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cloudconvert\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CloudConvert",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/cloud-convert.jpg",
+            "humanURL": "https:\/\/cloudconvert.org\/page\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloudconvert-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/cloudconvert.org\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/cloudconvert.org\/blog\/feed\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/cloudconvert.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CloudConvert"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/cloudconvert.org\/page\/api"
+        }
+    ]
+}
