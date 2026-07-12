@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: https://cloudconvert.com/api/v2
 common:
+  - type: TrustCenter
+    url: security/cloudconvert-trust-center.yml
+  - type: DomainSecurity
+    url: security/cloudconvert-domain-security.yml
   - type: Website
     url: https://cloudconvert.com/api/v2
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://cloudconvert.com/blog/feed
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
