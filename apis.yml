@@ -27,7 +27,7 @@ description: "Online file converter for audio, video, document, ebook, archive, 
 url: https://cloudconvert.com/api/v2
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-09-06'
 x-source: public-apis/public-apis
 x-category: "Documents & Productivity"
 x-tier: 3
@@ -56,6 +56,12 @@ common:
     url: https://github.com/public-apis/public-apis
   - url: https://cloudconvert.com/blog/feed
     type: Blog
+  - name: MCP Server
+    url: https://mcp.cloudconvert.com
+    type: MCPServer
+  - name: MCP Documentation
+    url: https://cloudconvert.com/blog/mcp-server
+    type: MCPDocumentation
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
