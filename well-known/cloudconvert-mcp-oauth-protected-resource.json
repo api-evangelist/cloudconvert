@@ -1,0 +1,1 @@
+{"resource":"https://mcp.cloudconvert.com","authorization_servers":["https://cloudconvert.com"],"scopes_supported":["user.read","user.write","task.read","task.write","webhook.read","webhook.write","preset.read","preset.write"]}
