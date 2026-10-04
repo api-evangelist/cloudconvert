@@ -33,13 +33,13 @@ x-category: "Documents & Productivity"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Documents And Productivity
   - Public APIs
+  - File Conversion
+  - Document Conversion
 apis:
   - name: CloudConvert
     description: "Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation"
     humanURL: https://cloudconvert.com/api/v2
-    baseURL: https://cloudconvert.com/api/v2
     tags:
       - Documents And Productivity
     properties:
@@ -65,3 +65,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Documents And Productivity
