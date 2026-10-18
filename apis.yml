@@ -40,7 +40,8 @@ apis:
   - name: CloudConvert
     description: "Online file converter for audio, video, document, ebook, archive, image, spreadsheet, presentation"
     humanURL: https://cloudconvert.com/api/v2
-    tags:
+    tags: []
+    tags_raw:
       - Documents And Productivity
     properties:
       - type: Documentation
